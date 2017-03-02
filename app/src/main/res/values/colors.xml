@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <color name="RemoteCircleProgress">#00EAAB</color>
+
+    <color name="HomeCountColor">#8A8A8A</color>
+    <color name="HomeCommentContent">#676767</color>
+
+    <color name="CommentUsername">#1C2227</color>
+    <color name="CommentContent">#9D9E9E</color>
+
+    <color name="seperateColor">#C9CACA</color>
+
+    <color name="BlueColor">#0099CC</color>
+    <color name="ggColor">#00EAAB</color>
+    <color name="devicegray">#727171</color>
+    <color name="slidegray">#D0D0D0</color>
+
+    <color name="hometop">#F7F7F7</color>
+    <color name="lightgray">#F2F2F2</color>>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="tabbarColor">#EEEEEE</color>
+    <color name="tabbarfont">#8C8C8C</color>
+    <color name="statuscolor">#008EFF</color>
+    <color name="tabbarfontselected">#3C4347</color>
+    <color name="tabbarselectedColor">#000000</color>
+    <color name="remindtext_color">#898989</color>
+    <color name="device_label">#030303</color>
+    <color name="device_bottom">#33393D</color>
+
+    <color name="red_color">#FE2851</color>
+
+    <color name="linecolor">#e0e0e0</color>
+
+
+    <!-- 蓝色主色 -->
+    <color name="C1">#0BB887</color>
+    <!-- 黑色主色 -->
+    <color name="C2">#333333</color>
+    <!-- 黑色辅助色 -->
+    <color name="C3">#666666</color>
+    <!-- 次辅助色 -->
+    <color name="C4">#999999</color>
+    <!-- 提示 不可点击 -->
+    <color name="C5">#CCCCCC</color>
+    <!-- 分割线-->
+    <color name="C6">#e0e0e0</color>
+    <!-- 浅灰色背景,界面背景-->
+    <color name="C7">#F2F2F2</color>
+    <!-- 高亮强调 橙色-->
+    <color name="C8">#FF8112</color>
+    <!--异常 未支付 失败的颜色-->
+    <color name="error_color">#F76447</color>
+    <color name="green">#37a5e1</color>
+
+</resources>
